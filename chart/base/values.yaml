@@ -45,6 +45,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+connectsTo: "cnt-java-spring"
 
 runtime: nodejs
